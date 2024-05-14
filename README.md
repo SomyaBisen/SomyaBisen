@@ -7,7 +7,7 @@
 - 📉 Analytics
 - 📈 Relationship Management
 - 🤝 Conflict Resolution
-- 
+  
 My goal is to leverage my skills to transform data into strategic insights for business success.
 
 ## 🛠 Skills
