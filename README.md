@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somya </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bisensomya) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:bisen.s@northeastern.edu)
-
 ## 👩‍💼 About Me
 
 🎓 I'm a **Business Analytics** candidate at Northeastern University with a strong foundation in:
@@ -42,17 +40,6 @@ _March 2022 – June 2023_
 **Frameworks:** Pandas, NumPy, Matplotlib, SciKit-Learn, Ggplot2  
 **Developer Tools:** Power BI, Tableau, Alteryx Designer  
 **Management Tools:** Jira, Microsoft Office Suite (Excel, PowerPoint)
-
-## 📫 Contact
-
-Feel free to reach out via [email](mailto:bisen.s@northeastern.edu) or connect with me on [LinkedIn](https://linkedin.com/in/bisensomya).
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bisensomya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david de la iglesia ubierna" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/258px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a> 
 <a href="https://www.google.es/intl/es/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" alt="google sheets" width="40" height="40"/> </a>
@@ -60,4 +47,12 @@ Feel free to reach out via [email](mailto:bisen.s@northeastern.edu) or connect w
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="tableau" width="40" height="40"/> </a> 
 </p>
+
+## 📫 Contact
+
+Feel free to reach out via [email](mailto:bisen.s@northeastern.edu) or connect with me on [LinkedIn](https://linkedin.com/in/bisensomya).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bisensomya) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:bisen.s@northeastern.edu)
+
+
+
 
