@@ -47,8 +47,6 @@ _March 2022 – June 2023_
 
 Feel free to reach out via [email](mailto:bisen.s@northeastern.edu) or connect with me on [LinkedIn](https://linkedin.com/in/bisensomya).
 
-![Footer Image](https://user-images.githubusercontent.com/yourusername/footerimage.png) <!-- Replace with a footer image URL -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bisensomya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david de la iglesia ubierna" height="30" width="40" /></a>
