@@ -2,7 +2,7 @@
 
 ## 👩‍💼 About Me
 
-🎓 I'm a **Business Analytics** candidate at Northeastern University with a strong foundation in:
+🎓 I'm pursuing a **Master's in Business Analytics** at Northeastern University with a strong foundation in:
 - 📊 Data Visualization
 - 📉 Analytics
 - 📈 Relationship Management
