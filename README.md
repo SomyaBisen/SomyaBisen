@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bisensomya.bisensomya)
+![Visitor Count](https://komarev.com/ghpvc/?username=bisensomya&style=flat-square&color=blue)
 
 <h1 align="center">Hi 👋, I'm Somya </h1>
 
