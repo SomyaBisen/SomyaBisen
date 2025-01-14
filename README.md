@@ -40,6 +40,7 @@ Whether it's building dashboards that shine, automating workflows to save the da
 🎓 **Northeastern University, Boston, MA**  
 **Master of Science in Business Analytics (Machine Learning)**  
 Graduated: December 2024 | GPA: 3.8/4.0 | Magna Cum Laude  
+***Coursework**: Data Analysis and Data Wrangling for Business, Information Visuals and Dashboards, Data Mining and Machine Learning, Business Modeling, Supply Chain Analytics, Operation and Supply Chain Management*
 
 ---
 
