@@ -18,13 +18,17 @@ Whether it's building dashboards that shine, automating workflows to save the da
 
 ---
 
-## 🛠️ Toolbox
+ ## 🛠️ Technical Skills  
 
-- **Languages**: Python, R, SQL, PL/SQL, DAX, Power Query (M)  
-- **Data Tools**: Tableau, Power BI, Alteryx, Looker  
-- **Cloud Platforms**: AWS, Google Cloud (GCP)  
-- **Databases**: Snowflake, BigQuery, Redshift, MySQL, PostgreSQL, MongoDB  
-- **Project Management**: Agile, Scrum, Jira, Confluence, Git  
+| **Category**         | **Tools/Technologies**                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------|
+| **Languages**         | Python, R, SQL, PL/SQL, DAX, Power Query (M)                                         |
+| **Visualization**     | Tableau, Power BI, Alteryx, Looker                                                   |
+| **Cloud Platforms**   | AWS, Google Cloud (GCP)                                                              |
+| **Databases**         | Snowflake, BigQuery, Redshift, MySQL, PostgreSQL, MongoDB                            |
+| **Analytics Methods** | Regression, Clustering, Time Series Forecasting, A/B Testing, Data Analysis          |
+| **Project Management**| Agile, Scrum, Jira, Confluence, Git                                                  |
+
 
 ---
 
