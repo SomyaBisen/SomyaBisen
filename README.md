@@ -9,10 +9,25 @@ I'm **Somya**, a passionate data professional who loves turning complex datasets
 
 ## 🌟 What I Do
 
-- **Data Insights Specialist**: Transform raw data into actionable insights using advanced visualization tools like Tableau and Power BI to support strategic decision-making.  
-- **Predictive Analyst**: Develop robust models to identify trends and forecast outcomes with high precision and reliability.  
-- **Workflow Optimizer**: Streamline processes and enhance efficiency by designing automated pipelines and workflows using Python and SQL.  
-- **Collaborative Strategist**: Partner effectively with cross-functional teams to align data initiatives with organizational objectives and drive impactful results.
+### **Transform Data into Insights**  
+- Analyze complex datasets using advanced tools and techniques to uncover trends, patterns, and opportunities.  
+- Design and deliver intuitive dashboards and reports that simplify decision-making for executives and teams.
+
+### **Optimize Processes**  
+- Automate workflows and ETL pipelines, saving time and improving operational efficiency.  
+- Standardize data collection and reporting processes, ensuring accuracy and consistency across all projects.
+
+### **Drive Strategic Outcomes**  
+- Build predictive models and statistical analyses to forecast trends, guide resource allocation, and solve business challenges.  
+- Align data strategies with organizational goals, delivering actionable recommendations that drive measurable impact.
+
+### **Foster Collaboration**  
+- Collaborate with cross-functional teams, including product, marketing, finance, and operations, to develop unified solutions.  
+- Translate technical analyses into accessible insights for non-technical stakeholders, bridging the gap between data and decision-making.
+
+### **Deliver Results**  
+- Empower teams by providing tools and insights to monitor performance and track progress toward objectives.  
+- Enhance customer experiences, operational efficiency, and business growth through data-driven strategies.
 
 ---
 ## 🛠️ Technical Skills 
