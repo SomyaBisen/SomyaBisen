@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SomyaBisen.SomyaBisen)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bisensomya.bisensomya)
 
 <h1 align="center">Hi 👋, I'm Somya </h1>
 
