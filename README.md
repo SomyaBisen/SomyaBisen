@@ -11,10 +11,10 @@ Whether it's building dashboards that shine, automating workflows to save the da
 
 ## 🌟 What I Do
 
-- **Data Storytelling**: Transform raw data into insights that drive strategy using tools like Tableau and Power BI.
-- **Predictive Wizardry**: Build models to uncover trends and forecast outcomes with precision.
-- **Automation Hero**: Save countless hours by creating efficient pipelines and workflows using Python and SQL.
-- **Collaboration Maven**: Work seamlessly across teams to align data strategies with business goals.
+- **Data Insights Specialist**: Transform raw data into actionable insights using advanced visualization tools like Tableau and Power BI to support strategic decision-making.  
+- **Predictive Analyst**: Develop robust models to identify trends and forecast outcomes with high precision and reliability.  
+- **Workflow Optimizer**: Streamline processes and enhance efficiency by designing automated pipelines and workflows using Python and SQL.  
+- **Collaborative Strategist**: Partner effectively with cross-functional teams to align data initiatives with organizational objectives and drive impactful results.  
 
 ---
 
