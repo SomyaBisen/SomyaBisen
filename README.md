@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SomyaBisen.SomyaBisen)
+
 <h1 align="center">Hi 👋, I'm Somya </h1>
 
 ## 👩‍💼 About Me
