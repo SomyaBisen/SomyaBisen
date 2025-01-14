@@ -14,23 +14,10 @@ Whether it's building dashboards that shine, automating workflows to save the da
 - **Data Insights Specialist**: Transform raw data into actionable insights using advanced visualization tools like Tableau and Power BI to support strategic decision-making.  
 - **Predictive Analyst**: Develop robust models to identify trends and forecast outcomes with high precision and reliability.  
 - **Workflow Optimizer**: Streamline processes and enhance efficiency by designing automated pipelines and workflows using Python and SQL.  
-- **Collaborative Strategist**: Partner effectively with cross-functional teams to align data initiatives with organizational objectives and drive impactful results.  
+- **Collaborative Strategist**: Partner effectively with cross-functional teams to align data initiatives with organizational objectives and drive impactful results.
 
 ---
-
- ## 🛠️ Technical Skills  
-
-| **Category**         | **Tools/Technologies**                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------|
-| **Languages**         | Python, R, SQL, PL/SQL, DAX, Power Query (M)                                         |
-| **Visualization**     | Tableau, Power BI, Alteryx, Looker                                                   |
-| **Cloud Platforms**   | AWS, Google Cloud (GCP)                                                              |
-| **Databases**         | Snowflake, BigQuery, Redshift, MySQL, PostgreSQL, MongoDB                            |
-| **Analytics Methods** | Regression, Clustering, Time Series Forecasting, A/B Testing, Data Analysis          |
-| **Project Management**| Agile, Scrum, Jira, Confluence, Git                                                  |
-
----
-## Skills 🔧
+## 🛠️ Technical Skills 
 
 | Category          | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
