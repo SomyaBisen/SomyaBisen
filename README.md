@@ -42,7 +42,8 @@ Graduated: December 2024 | GPA: 3.8/4.0 | Magna Cum Laude
 
 ---
 
-## 🚀 My Journey
+## 🚀 **Where I’ve Made an Impact**
+
 
 - 🌟 **Bright Horizons**: Business Analytics Manager Co-op  
 - 📊 **Northeastern University**: Research Analyst  
