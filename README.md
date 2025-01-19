@@ -3,7 +3,7 @@
 # Hi! I'm Somya Bisen 🌟 Empowering Businesses with Data Insights 💡📈
 
 ## About Me 👨‍💻
-I'm **Somya**, a passionate data professional who loves turning complex datasets into meaningful stories. With 4+ years of experience in business intelligence, data visualization, and predictive modeling, I've been empowering organizations to make smarter, faster, and more impactful decisions.
+I'm **Somya**, a passionate data professional who loves turning complex datasets into meaningful stories. With over 3 years of experience in business intelligence, data visualization, and predictive modeling, I've been empowering organizations to make smarter, faster, and more impactful decisions.
 
 ---
 
