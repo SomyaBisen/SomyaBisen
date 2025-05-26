@@ -3,7 +3,7 @@
 # Hi! I'm Somya Bisen 🌟 Empowering Businesses with Data Insights 💡📈
 
 ## About Me 👨‍💻
-I'm **Somya**, a passionate data professional who loves turning complex datasets into meaningful stories. With 4 of experience in business intelligence, data visualization, and predictive modeling, I've been empowering organizations to make smarter, faster, and more impactful decisions.
+I'm **Somya**, a passionate data professional who loves turning complex datasets into meaningful stories. With over 3 of experience in business intelligence, data visualization, and predictive modeling, I've been empowering organizations to make smarter, faster, and more impactful decisions.
 
 ---
 
@@ -43,9 +43,9 @@ Graduated: December 2024 | GPA: 3.8/4.0 | Magna Cum Laude
 ## 🚀 **Where I’ve Made an Impact**
 
 
-- 🌟 **Bright Horizons**: Business Analytics Manager Co-op  
+- 🌟 **Bright Horizons**: Business Analytics Co-op  
 - 📊 **Northeastern University**: Research Analyst  
-- 💼 **Pramata Corporation**: Senior Business Analyst  
+- 💼 **Pramata Corporation**: Business Analyst  
 - 💡 **HelpAge International**: Data Analyst  
 
 ---
